@@ -1,8 +1,7 @@
-.container{
- margin-top: 3%;
+.py-5 {
+    padding-top: 5rem!important;
 }
 .git-box{
-    margin-top: 9%;
     width: 100%;
     height: 500px;
     border-style: solid;
