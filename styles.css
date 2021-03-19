@@ -22,4 +22,15 @@
     border-style: solid;
     border-color: brown;
     border-radius: 5%;
+    border-width: thin;
+}
+.d-flex a.nav-link.contact:hover{
+    color: brown;
+    text-decoration: none;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 5%;
+    background-color: white;
+    font-weight: bold;
+    cursor: pointer;
 }
