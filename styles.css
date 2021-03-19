@@ -1,8 +1,8 @@
 .container{
  margin-top: 3%;
-
 }
 .git-box{
+    margin-top: 9%;
     width: 100%;
     height: 500px;
     border-style: solid;
@@ -15,4 +15,11 @@
 }
 .btn.btn-outline-light.btn-floating.m-1{
     width: 3%;
+}
+.d-flex a.nav-link.contact{
+    color: brown;
+    text-decoration: none;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 5%;
 }
