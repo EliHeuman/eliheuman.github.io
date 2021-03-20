@@ -8,10 +8,7 @@
     border-color: black;
     background-color: brown;
 }
-.footerimg{
-    max-width: 100%;
-    height: auto;
-}
+
 .btn.btn-outline-light.btn-floating.m-1{
     width: 3%;
 }
@@ -33,3 +30,19 @@
     font-weight: bold;
     cursor: pointer;
 }
+.col-md-5.order-md-1{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.col-md-7.order-md-2{
+    padding-top: 12px;
+    padding-bottom: 12px;   
+}
+address.font-weight-light {
+    display: inline;
+}
+.footerimg{
+    max-width: 100%;
+    height: auto;
+}
+
