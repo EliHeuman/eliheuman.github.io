@@ -25,8 +25,8 @@ Source Code: https://github.com/EliHeuman/eliheuman.github.io/blob/main/index.ht
 ##### Support
 If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail.com"> email me.</a>
 ___
-## Roadmap of future improvements:
-
+## Roadmap of future improvements and updates:
+I continually updated the project as new projects emerge.
 
 #### License information
 
