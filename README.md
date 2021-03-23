@@ -8,6 +8,13 @@ The GitHub Portfolio Project concludeds the first ten weeks of the MIT xPRO Full
 
 ## Description of the Project 
 Importing Bootstrap to this project helped speed up production and styling. The project has two pages linked by a Navbar. The landing page has a Bio, and a short video, and the projects page showcases the projects I worked on during the past weeks at the MIT course.
+###### list of links to the different repositories showcased:
+Repository Name  | Link
+-------------|--------------------
+PacMen Factory Exercise | <a href="https://github.com/EliHeuman/PacMen-Factory-Exercise">PacMen repository</a>
+Eye Exercise | <a href="https://github.com/EliHeuman/Eye">Eye repository</a>
+Bus Tracker Exercise| <a href="https://github.com/EliHeuman/Real-Time-Bus">Bus Tracker repository</a>
+
 ___
 ## How to Run
 opn
@@ -19,9 +26,7 @@ opn
 If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail.com"> email me.</a>
 ___
 ## Roadmap of future improvements:
-Project Name | Date | Update Discription
--------------|------|--------------------
-Move Ball Exercise | 1/22/20201 | Created a REPO and README for project.
+
 
 #### License information
 
