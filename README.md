@@ -21,3 +21,5 @@ Project Name | Date | Update Discription
 Move Ball Exercise | 1/22/20201 | Created a REPO and README for project.
 
 #### License information
+
+<a href="http://eliheuman.github.io/License.txt">The MIT License (MIT)</a>
