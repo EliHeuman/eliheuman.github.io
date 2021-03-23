@@ -14,12 +14,8 @@ Repository Name  | Link
 PacMen Factory Exercise | <a href="https://github.com/EliHeuman/PacMen-Factory-Exercise">PacMen repository</a>
 Eye Exercise | <a href="https://github.com/EliHeuman/Eye">Eye repository</a>
 Bus Tracker Exercise| <a href="https://github.com/EliHeuman/Real-Time-Bus">Bus Tracker repository</a>
-
 ___
-## How to Run
-opn
-
-##### Contribute
+## Contribute
 Source Code: https://github.com/EliHeuman/eliheuman.github.io/blob/main/index.html
 
 ##### Support
