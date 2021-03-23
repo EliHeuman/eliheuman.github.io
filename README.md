@@ -1,7 +1,7 @@
 # GitHub Portfolio Project
 M.I.T Xpro GitHub Pages Portfolio Assignment<br>
 Eli Heuman's GitHub Portfolio Project:<a href="https://github.com/EliHeuman/eliheuman.github.io"> Repository</a><br>
-Eli Heuman's Webpage:<a href=https://eliheuman.github.io> eliheuman.github.io</a>
+Eli Heuman's website:<a href=https://eliheuman.github.io> eliheuman.github.io</a>
 ___
 
 The GitHub Portfolio Project concludeds the first ten weeks of the MIT xPRO Full Stack Developer Boot Camp.
